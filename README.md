@@ -36,6 +36,11 @@ python deploy.py
     <img width="600" src="https://github.com/MisterFoziljon/Paddle-Human-Attribute-Recognition/blob/main/src/fast.jpg" alt="Material Bread logo">
 </p>
 
+4. Video
+<p align="center">
+    <img width="600" src="https://github.com/MisterFoziljon/Paddle-Human-Attribute-Recognition/blob/main/src/video.gif" alt="Material Bread logo">
+</p>
+
 ### Xulosa:
 
 | Model                 | Algoritm | Aniqlik | Inference vaqti(s) | Video uchun umumiy FPS                                                                              |
