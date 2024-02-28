@@ -11,6 +11,6 @@ Loyiha 3 qismdan iborat:
 3. Deploy - Modellarni Paddle freymvorki va CPU yordamida foydalanish uchun tayyor holatga keltirish.
 
 Dasturni ishga tushirish:
-```bash
+```cmd
 python deploy.py
 ```
