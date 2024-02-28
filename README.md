@@ -35,3 +35,11 @@ python deploy.py
 <p align="center">
     <img width="600" src="https://github.com/MisterFoziljon/Paddle-Human-Attribute-Recognition/blob/main/src/fast.jpg" alt="Material Bread logo">
 </p>
+
+### Xulosa:
+
+| Model                 | Algoritm | Aniqlik | Inference vaqti(s) | Video uchun umumiy FPS                                                                              |
+|:---------------------|:---------:|:------:|:------:| :---------------------------------------------------------------------------------: |
+| High-Precision Model    |  PP-HGNet_small  |  mA: 95.4  | 1 ta kadr 1.467s | 9.9 |
+| Fast Model    |  PP-LCNet_x1_0  |  mA: 94.5  | 1 ta kadr 0.15s | [Download] 32.2 |
+| Balanced Model    |  PP-HGNet_tiny  |  mA: 95.2  | 1 ta kadr 0.893s | 12.3 |
